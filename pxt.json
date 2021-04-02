@@ -11,7 +11,9 @@
         "README.md",
         "main.ts",
         "StartbitRGBLight.ts",
-        "Startbit12.ts"
+        "Startbit12.ts"，
+        "_locales/zh/startbit-strings.json", 
+        "_locales/zh/startbit-jsdoc-strings.json" 
     ],
     "testFiles": [
         "test.ts"
