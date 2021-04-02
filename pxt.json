@@ -10,7 +10,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "StartbitRGBLight.ts"
+        "StartbitRGBLight.ts",
+        "Startbit12.ts"
     ],
     "testFiles": [
         "test.ts"
